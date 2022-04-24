@@ -4,5 +4,4 @@
 
 **I am backend developer and competitive programmer on codeforces and codechef. My Recently Project is Nivos. NIVOS is a python tool that allows you to** **scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.**
 
-![TheSadError Stats](https://github-readme-stats.vercel.app/api?username=TheSadError&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSadError&layout=compact)
+<img width="40%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSadError&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
