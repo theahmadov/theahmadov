@@ -7,3 +7,10 @@
 
 <img width="40%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSadError&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
+
+**Donation :**
+```
+TR05 0006 2000 0280 0009 0525 31
+Name : Teymur Ahmetzade
+USD Type
+```
