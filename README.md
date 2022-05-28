@@ -6,11 +6,3 @@
 **I am backend developer and competitive programmer on codeforces and codechef and I have own team that calls NIVO. My Recently Project is Nivos. NIVOS is a hacking tool that allows you to** **scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.**
 
 <img width="40%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSadError&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
-
-**Donation :**
-```
-TR05 0006 2000 0280 0009 0525 31
-Name : Teymur Ahmetzade
-USD Type
-```
