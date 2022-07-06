@@ -7,5 +7,5 @@
 
 <img width="40%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSadError&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
-**Special INFO**
+**Special INFO**\
 **Name : Muhammedali Ahmetzade**
