@@ -3,6 +3,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
 
-**I am cyber security student and competitive programmer , I know C++ (for competitive) and python (for cyber security). Also I am trying to improve myself day by day... Dont forget to look my open source projects.**
+**I am competitive programmer , I know C++ (for competitive) and python (for cyber security). Also I am trying to improve myself day by day... Dont forget to look my open source projects.**
 
 <img width="40%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSadError&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
