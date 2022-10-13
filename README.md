@@ -1,1 +1,1 @@
-<h1><img src="https://media.discordapp.net/attachments/1017766443833630801/1030109168281067550/glowred.jpg"/>
+![](https://media.discordapp.net/attachments/1017766443833630801/1030109168281067550/glowred.jpg)
