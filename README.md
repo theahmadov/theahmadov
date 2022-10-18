@@ -1,4 +1,4 @@
-```
+```js
 * Skills
 |
 |__ Programming
