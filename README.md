@@ -1,4 +1,7 @@
-```js
+* [Blog Website](https://thesaderror.github.io/)
+
+* Info Tree
+```py
 * Skills
 |
 |__ Programming
